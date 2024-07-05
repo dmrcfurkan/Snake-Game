@@ -1,2 +1,3 @@
-# Y-lan-Oyunu
-HTML, CSS, JavaScript kullanılarak yılan oyunu
+# Snake Game
+
+Snake game with HTML, CSS, JavaScript
